@@ -1,14 +1,18 @@
 # Global Superstore Analysis Project
 
+![Global Superstore Dashboard](Global%20Superstore%20Analysis.png)
+
+
 **Author**: Sangram Singh  
 **Objective**: To provide comprehensive business intelligence for Global Superstore, leveraging data analytics to drive strategic decision-making and ensure consistent growth and profitability at a global level.
 
 
-![Alt text for image](Global Superstore Analysis.png)
 
 ---
 
 ## Table of Contents
+
+
 1. [Project Overview](#project-overview)
 2. [Mission Statement](#mission-statement)
 3. [Data Sources](#data-sources)
