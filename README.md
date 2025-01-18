@@ -3,6 +3,9 @@
 **Author**: Sangram Singh  
 **Objective**: To provide comprehensive business intelligence for Global Superstore, leveraging data analytics to drive strategic decision-making and ensure consistent growth and profitability at a global level.
 
+
+![Alt text for image](Global Superstore Analysis.png)
+
 ---
 
 ## Table of Contents
